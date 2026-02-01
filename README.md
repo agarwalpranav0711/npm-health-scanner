@@ -4,9 +4,9 @@ A modern web tool that analyzes the health of any npm package by combining npm r
 
 ## 🚀 Live Demo
 
-🔗 [Add your Vercel link here after deployment]
+🔗 https://npm-health-scanner.vercel.app/
 
-**Example:** `https://npm-health-scanner.vercel.app`
+
 
 ---
 
